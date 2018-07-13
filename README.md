@@ -7,9 +7,13 @@
 ```sh
 # Install dependencies
 npm install
+# or
+yarn
 
 # Run the bot
 npm start
+# or
+yarn start
 ```
 
 ## Contributing
